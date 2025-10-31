@@ -1,0 +1,11 @@
+{
+  "name": "veo3-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "@google/genai": "^0.7.0",
+    "multer": "^1.4.5"
+  }
+}
